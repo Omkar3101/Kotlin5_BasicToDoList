@@ -123,8 +123,8 @@ fun viewTasks(tasks: MutableMap<Int, String>, completedTasks: MutableSet<Int>){
 ✨ Create a Graphical UI version
 
 ## License
-This project is licensed under the MIT License – see the LICENSE file for details.
+This project is licensed under the MIT License – see the [LICENSE](https://github.com/Omkar3101/Kotlin5_BasicToDoList/blob/main/LICENSE) file for details.
 
 ## Let's Connect
-🔹 LinkedIn
-🔹 GitHub
+🔹 [LinkedIn](https://www.linkedin.com/in/omkar3101/)
+🔹 [GitHub](https://github.com/Omkar3101)
